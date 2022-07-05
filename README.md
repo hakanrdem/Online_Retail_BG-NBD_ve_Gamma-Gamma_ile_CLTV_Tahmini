@@ -1,1 +1,3 @@
-# Online_Retail_BG-NBD_ve_Gamma-Gamma_ile_CLTV_Tahmini
+
+İngiltere merkezli perakende e-ticaret şirketi müşterilerini segmentlere ayırıp bu segmentlere göre
+pazarlama stratejileri belirlemek istiyor.
