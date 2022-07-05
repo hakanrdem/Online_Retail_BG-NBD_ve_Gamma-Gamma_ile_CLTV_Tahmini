@@ -1,0 +1,1 @@
+# Online_Retail_BG-NBD_ve_Gamma-Gamma_ile_CLTV_Tahmini
